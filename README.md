@@ -1,25 +1,15 @@
-# ReduxSimpleStarter
+# 🌤️ Philippines Weather Forecast App
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This is a simple **React + Redux** web application that displays a **5-day weather forecast** for **Philippines** using the [OpenWeatherMap API](https://openweathermap.org/forecast5).
 
-### Getting Started
+---
 
-There are two methods for getting started with this repo.
+## 🚀 Features
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+- 📍 Displays weather forecast for **Philippines**
+- 📅 Shows weather across 5 days
+- 🌡️ Temperature, weather condition, and more
+- 🔄 Live data fetched from **OpenWeatherMap**
+- ⚛️ Built with **React**, **Redux**, and **Axios**
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+---
