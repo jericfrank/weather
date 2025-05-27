@@ -13,3 +13,7 @@ This is a simple **React + Redux** web application that displays a **5-day weath
 - ⚛️ Built with **React**, **Redux**, and **Axios**
 
 ---
+
+## 🖼️ Preview
+
+![Demo GIF](./weather-app.gif)
